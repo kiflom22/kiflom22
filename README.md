@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kiflom22</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiflom22" alt="kiflom22" /></a> </p>
+
 
 - 📫 How to reach me **mebrahtomkiflom22@gmail.com**
 
