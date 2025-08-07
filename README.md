@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm kiflom22</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<h4>👋 Hi, I'm a MERN Stack Developer!</h4>
+<p>I'm a dedicated full-stack web developer with a Bachelor’s degree in Information Technology from Arba Minch University. I specialize in the MERN stack — MongoDB, Express.js, React, and Node.js — and enjoy turning ideas into responsive, user-focused web applications.
+
+💡 I’m passionate about writing clean, maintainable code and solving real-world problems through tech. Whether it’s building RESTful APIs, integrating real-time features with Socket.IO, or creating smooth frontend experiences, I strive to deliver high-quality, scalable solutions.
+
+Currently, I’m expanding my knowledge in backend architecture, cloud deployment, and DevOps tools. I’m also open to freelance work, collaborations, or full-time opportunities.
+
+Let’s connect and build something great! </p>
 
 
 
