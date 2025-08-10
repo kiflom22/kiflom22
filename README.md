@@ -13,7 +13,7 @@ Let’s connect and build something great! </p>
 
 - 📫 How to reach me **mebrahtomkiflom22@gmail.com**
 
-- ⚡ Fun fact **Most of my commits happen when the world is asleep.....**
+- ⚡ <u>Fun fact</u> **Most of my commits happen when the world is asleep.....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
